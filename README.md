@@ -14,7 +14,7 @@ Customer segmentation is a crucial marketing strategy used to divide customers i
 The dataset used is the **Mall Customers** dataset, which contains the following features:
 
 - `CustomerID`
-- `Gender`
+- `Gender`. 
 - `Age`
 - `Annual Income (k$)`
 - `Spending Score (1-100)`
