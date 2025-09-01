@@ -16,7 +16,7 @@ The dataset used is the **Mall Customers** dataset, which contains the following
 - `CustomerID`
 - `Gender`. 
 - `Age`
-- `Annual Income (k$)`
+- `Annual Income (k$)`. 
 - `Spending Score (1-100)`
 
 You can find the dataset in the repository under the file name: `Mall_Customers.csv`
